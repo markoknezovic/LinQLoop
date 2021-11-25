@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\LinQLoop\LinQLoop\bin\Debug\LinQLoop.exe.config
+C:\Users\Korisnik\source\repos\LinQLoop\LinQLoop\bin\Debug\LinQLoop.exe
+C:\Users\Korisnik\source\repos\LinQLoop\LinQLoop\bin\Debug\LinQLoop.pdb
+C:\Users\Korisnik\source\repos\LinQLoop\LinQLoop\obj\Debug\LinQLoop.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\LinQLoop\LinQLoop\obj\Debug\LinQLoop.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\LinQLoop\LinQLoop\obj\Debug\LinQLoop.exe
+C:\Users\Korisnik\source\repos\LinQLoop\LinQLoop\obj\Debug\LinQLoop.pdb
